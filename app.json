@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Fixify",
+    "slug": "fixify",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "plugins": [
+      "expo-sqlite"
+    ]
+  }
+}
